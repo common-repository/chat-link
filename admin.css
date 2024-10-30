@@ -1,0 +1,23 @@
+/* admin.css */
+#wpcontent{background:#f3f5f7 !important;}
+h1{font-weight:bold !important;}
+
+#chat_link_custom_image_preview {
+    margin-top: 10px;
+}
+
+#chat_link_custom_image_preview img {
+    max-width: 100px;
+    max-height: 100px;
+    display: inline;
+}
+
+#chat_link_custom_image_preview button {
+    display: inline;
+    margin-left: 10px;
+}
+
+#chat-number-description {
+    color: red;
+    display: none;
+}
